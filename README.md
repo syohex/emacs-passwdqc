@@ -1,6 +1,6 @@
 # passwdqc
 
-[libpasswdqc](http://www.openwall.com/passwdqc/) of Emacs Lisp. This package uses dynamic module feature of Emacs 25.
+[libpasswdqc](http://www.openwall.com/passwdqc/) binding of Emacs Lisp. This package uses dynamic module feature of Emacs 25.
 
 ## Interfaces
 
